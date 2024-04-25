@@ -1,2 +1,2 @@
 # simple-game
-rylib games
+raylib games
