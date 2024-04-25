@@ -1,2 +1,2 @@
 # simple-game
-rylib mysql game
+rylib games
